@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using JanamApi.Models;
 
 namespace JanamApi.Data
 {
